@@ -191,7 +191,7 @@ function cmdHkhelp()
     sampAddChatMessage('_______________________________________', 0x33CCFF)
     sampAddChatMessage('*** HELPER KIT HELP *** - type a command for more infomation.', -1)
     sampAddChatMessage('*** HELPER KIT ALL *** /def /loc /lvl /n /hrs /lvl1s', 0xCBCCCE)
-    sampAddChatMessage('*** HELPER KIT SENIORS *** /en /ahr', 0xCBCCCE)
+    sampAddChatMessage('*** HELPER KIT SENIORS *** /en /ahr /hdef /hloc /addloc', 0xCBCCCE)
 end
 
 local Settings = {
@@ -354,7 +354,6 @@ function cmdaddloc(Arg)
         sampAddChatMessage('[Helper] {FFFFFF}Location failed to Appended', 0xFF9E00)
     end
 end
-
 
 function main()
     while not isSampAvailable() do wait(100) end
