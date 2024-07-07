@@ -1,0 +1,1814 @@
+[
+	{
+		"keywords": ["Contract"],
+		"Update": "v2.4.0.0",
+		"Range": "Above 100 playing hours: LEO: $15,000 - $1,000,000 | Other: $7,500 - $1,000,000",
+		"New Range": "Below 100 playing hours: LEO: $15,000 - $100,000 | Other: $7,500 - $100,000",
+		"Tags": "Contract | LEO | HMA | Hitman"
+	},
+	{
+		"keywords": ["Sprunk Factory"],
+		"Update": "v2.4.0.0",
+		"Description": "located at Montgomery, a newly added Point for OOC Gang Wars.",
+		"Tags": "Points | Turfs | Montgomery"
+	},
+	{
+		"keywords": ["Baggage Handler"],
+		"Update": "v2.4.0.0",
+		"Description": "Baggage Handler for airport Bags at LSI",
+		"Paycheck": "$800",
+		"Location": "Los Santos International",
+		"Tags": "Job | Baggage | LSI"
+
+	},
+	{
+		"keywords": ["Trucker"],
+		"Update": "v2.4.0.0",
+		"Description": "Trucker job for delivering materials/clothing/24/7/beverages",
+		"Changes": "Level 1: $850 | 2: $950 | 3: $1,050 | 4: $1,150 | 5: $1,250 | as per updated v2.4",
+		"Location": "Ocean Docks [/findjob] to locate.",
+		"Tags": "Vehicles | Trucker | Ocean Docks | Job | Business | Materials"
+	},
+	{
+		"keywords": ["Jobs"],
+		"Update": "v2.4.0.0",
+		"Changes": "Forklift Driver: $450 -> $1,250 | Garbageman: $450 -> $1,300 | Lumberjack: $50 -> $90 | Miner: $65 -> $90 ($65 in Castille) | Street Sweeper: $150 -> $200 | Transporter: $350 -> $525 | Trucker Level 1: $850 | 2: $950 | 3: $1,050 | 4: $1,150 | 5: $1,250 | Farmer Level 1: $225 | 2: $300 | 3: $375 | 4: $450 | 5: $525 | Car Jacker: $100 increased per Level | Baggage Handler: $800 per run",
+		"Paycheck": "Paychecks scaled from level 21 to level 51, Paychecks may differ from playing time/faction/gangs/jobs.",
+		"Tags": "Jobs | Paycheck | Forklift Driver | Garbageman | Lumberjack | Miner | Street Sweeper | Transporter | Trucker | Farmer | Car Jacker | Baggage Handler"
+	},
+	{
+		"keywords": ["Business Robbery"],
+		"Update": "v2.4.0.0",
+		"Description": "You can now start a Robbery from any Businesses/Store. Advertisement Store, Restaurant, Gym Store are exceptions.",
+		"How": "you can start a robbery by aiming your weapon to the Clerk (NPC) over the counter.",
+		"Tags": "Business | Robbery | Store | Clerk | NPC | Weapon"
+	},
+	{
+		"keywords": ["Turfs", "Points"],
+		"Update": "v2.4.0.0",
+		"Description": "as the update v2.4.0.0 New Points & Turfs have been introduced!",
+		"Vulnerability": "Increased the turf vulnerability cooldown from 70 hours to 73 hours. | Increased the point vulnerability cooldown from 23 hours to 25 hours.",
+		"Location": "Materials Factory 3 in Fallen Tree | Flint County | Sprunk Factory - Montgomery | Red County",
+		"Additional": "The new turfs include all the towns in Red County: Dillimore, Blueberry, Montgomery, and Palomino Creek. | Due to the increase in the number of points and turfs, point vulnerability cooldowns have increased from 23 hours to 25 hours, and turf vulnerability cooldowns have increased from 70 hours to 73 hours.",
+		"Extras": "Materials Factory 3 earns its profits from boat matrunners, and Sprunk Factory earns its profits from vending machine usage and Sprunk purchases in 24/7s. This also means that vending machines now cost $1 to use, and Sprunk in 24/7s now costs $5 (profits shared with business owners).",
+		"Tags": "Turfs | Points | Gangs | MF3 | Sprunk Factory | Dillimore | Blueberry | Montgomery | Palomino Creek | Matrun"
+		
+	},
+	{
+		"keywords": ["Clinic"],
+		"Update": "v2.4.0.0",
+		"Description": "The Blueberry Clinic has been added in Red County as an alternative respawn point. | You can change your respawn location to the clinic by switching your insurance inside.",
+		"Additional": "The clinic includes its own patient delivery points and several new LSFMD vehicles.",
+		"Tags": "Hospital | Clinic | Blueberry | Red County | LSFMD | Patients"
+	},
+	{
+		"keywords": ["Weapons"],
+		"Update": "v2.4.0.0",
+		"Description": "The prices of the AK-47, M4, and SPAS-12 have been reduced to their original, pre-sync shooting prices. | The 10% damage reduction on the SPAS-12 has also been removed, restoring its damage to its original game levels. In order to make it more viable, despite its lower mobility.",
+		"Changes": "AK-47: 5,000 -> 3,500 | M4: 6,000 -> 4,500 | SPAS-12: 8,000 -> 6,500",
+		"Extras": "These changes are also reflected in faction lockers and donator lockers / the black market.",
+		"Tags": "Guns | Weapons | Interior | AK-47 | M4 | SPAS-12 | Black Market | Faction | Locker"
+	},
+	{
+		"keywords": ["Gangs Earning"],
+		"Update": "v2.4.0.0",
+		"Description": "GANG TURF EARNINGS INCREASED! | Based on community feedback and our own calculations, we have increased turf earnings for gangs by 35%. | This has been done to help more adequately compensate their battle costs and make it more rewarding to control turfs.",
+		"Extras": "Please note that this is experimental and still subject to change — depending on the results we may have to make further adjustments."
+	},
+	{
+		"keywords": ["Faction Earnings"],
+		"Update": "v2.4.0.0",
+		"Description": "FACTION PAY INCREASED! | Faction pay has been increased across the board, both for LEOs and non-LEOs.",
+		"Changes": "LEO: Rank 0: $350 -> $600 |  Rank 1: $550 -> $800 | Rank 2: $650 -> $1,000 | Rank 3: $850 -> $1,200 |  Rank 4: $1,000 -> $1,400 | Rank 5: $1,200 -> $1,600 | Rank 6: $1,400 -> $1,800 ||| Non-LEO: Rank 0: $50 → $400 | Rank 1: $100 → $500 Rank 2: | $200 → $600 | Rank 3: $300 → $700 | Rank 4: $400 → $800 | Rank 5: $500 → $900 | Rank 6: $600 → $1,000",
+		"Tags": "Earnings | Paycheck | LEO | FMD | SASD | FBI | LSPD | ARES | HMA | SANEWS | GOV"
+	},
+	{
+		"keywords": ["San Andreas Sheriff Department"],
+		"Update": "v2.4.0.0",
+		"Description": "The San Andreas Sheriff's Department (SASD) is making an experimental return this summer!",
+		"Additional": "This new law enforcement faction is headquartered in Dillimore and patrols the towns of Red County.",
+		"Tags": "SASD | Dillimore | Red County | LEO"
+	},
+	{
+		"keywords": ["Vehicles"],
+		"Update": "v2.4.0.0",
+		"Description": "Several new vehicle interiors have been added, and some existing ones have been remade from scratch.",
+		"Vehicles": "Journey | Nevada | Enforcer | Securicar | Bus/Coach | Marquis | Boxville",
+		"Tags": "Vehicles | Remakes | Interior"
+	},
+	{
+		"keywords": ["Castille"],
+		"Update": "v2.4.0.0",
+		"Description": "Previously, Castille Island inmates (IC prisoners) were not fully released if they escaped prison but would instead respawn there if they died. From now on, they can be fully freed after a successful breach of the correctional facility. However, they must reach Los Santos and evade law enforcement (not any have LEOs near them anymore).",
+		"Tags": "Castille Island | Prisoners | Breaching | LEO | LSPD | Law Enforcement Officer | SASD | ARES | FBI"
+	},
+	{
+		"keywords": ["Renovations"],
+		"Update": "v2.4.0.0",
+		"Description": "Several exteriors and interiors have been renovated across Los Santos.",
+		"Locations": "Paintball Exterior | All Saints Hospital Exterior & Interior | County General Hospital Exterior | SANews HQ Exterior & Interior | The Cathay Theater at Market/Temple (Yakuza HQ) | The Masjid Al-Salam (Exterior & Interior)",
+		"Tags": "Vehicles | Remakes | Interior"
+	},
+	{
+		"keywords": ["FBI Downtown Office"],
+		"Update": "v2.4.0.0",
+		"Description": "The FBI now has a Downtown Office as their faction substation, located in Downtown Los Santos. It features new FBI vehicles, lockers, a roof exit, and its own arrest point.",
+		"Tags": "FBI | Remakes | Interior | Exterior | Substation | Office | Downtown | Los Santos"
+	},
+	{
+		"keywords": ["Sultan"],
+		"from grotti": "$50,000",
+		"from players": "$40,000",
+		"seats": "4",
+		"speed": "140 MPH"
+	},
+	{
+		"keywords": ["Comet"],
+		"from grotti": "$60,000",
+		"from players": "$40,000",
+		"seats": "2",
+		"speed": "153 MPH"
+	},
+	{
+		"keywords": ["Super GT"],
+		"from grotti": "$75,000",
+		"from players": "$45,000",
+		"seats": "2",
+		"speed": "149 MPH"
+	},
+	{
+		"keywords": ["Alpha"],
+		"from grotti": "$38,500",
+		"from players": "$20,000",
+		"seats": "2",
+		"speed": "140 MPH"
+	},
+	{
+		"keywords": ["Blista Compact"],
+		"from grotti": "$25,000",
+		"from players": "$15,000",
+		"seats": "2",
+		"speed": "135 MPH"
+	},
+	{
+		"keywords": ["Sabre"],
+		"from grotti": "$27,000",
+		"from players": "$15,000",
+		"seats": "2",
+		"speed": "143 MPH"
+	},
+	{
+		"keywords": ["Club"],
+		"from grotti": "$29,000",
+		"from players": "$20,000",
+		"seats": "2",
+		"speed": "135 MPH"
+	},
+	{
+		"keywords": ["Euros"],
+		"from grotti": "$32,000",
+		"from players": "$20,000",
+		"seats": "2",
+		"speed": "137 MPH"
+	},
+	{
+		"keywords": ["ZR-350"],
+		"from grotti": "$34,000",
+		"from players": "$20,000",
+		"seats": "2",
+		"speed": "155 MPH"
+	},
+	{
+		"keywords": ["Perennial"],
+		"from junkers": "$1,000",
+		"from players": "$2,000",
+		"seats": "4",
+		"speed": "110 MPH"
+	},
+	{
+		"keywords": ["Sadler"],
+		"from junkers": "$1,300",
+		"from players": "$1,500",
+		"seats": "2 (Surfable)",
+		"speed": "125 MPH"
+	},
+	{
+		"keywords": ["Glendale"],
+		"from junkers": "$1,500",
+		"from players": "$2,000",
+		"seats": "4",
+		"speed": "122 MPH"
+	},
+	{
+		"keywords": ["Tampa"],
+		"from junkers": "$1,500",
+		"from players": "$2,000",
+		"seats": "2",
+		"speed": "127 MPH"
+	},
+	{
+		"keywords": ["Bravura"],
+		"from junkers": "$2,000",
+		"from players": "2,000",
+		"seats": "2",
+		"speed": "122 MPH"
+	},
+	{
+		"keywords": ["Vincent"],
+		"from junkers": "$2,350",
+		"from players": "$2,000",
+		"seats": "4",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Willard"],
+		"from junkers": "$2,500",
+		"from players": "$2,000",
+		"seats": "4",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Clover"],
+		"from junkers": "$2,900",
+		"from players": "$2,000",
+		"seats": "2",
+		"speed": "136 MPH"
+	},
+	{
+		"keywords": ["BMX"],
+		"from willowfield bikes": "$500",
+		"from players": "$1,000",
+		"seats": "1",
+		"speed": "80 MPH"
+	},
+	{
+		"keywords": ["Faggio"],
+		"from willowfield bikes": "$1,000",
+		"from players": "$2,000",
+		"seats": "2",
+		"speed": "153 MPH+"
+	},
+	{
+		"keywords": ["Wayfarer"],
+		"from willowfield bikes": "$9,000",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "153 MPH+"
+	},
+	{
+		"keywords": ["Freeway"],
+		"from willowfield bikes": "$14,000",
+		"from players": "$15,000",
+		"seats": "2",
+		"speed": "170 MPH+"
+	},
+	{
+		"keywords": ["FCR-900"],
+		"from willowfield bikes": "$17,000",
+		"from players": "$15,000",
+		"seats": "2",
+		"speed": "171 MPH+"
+	},
+	{
+		"keywords": ["BF-400"],
+		"from willowfield bikes": "$19,000",
+		"from players": "$15,000",
+		"seats": "2",
+		"speed": "155 MPH+"
+	},
+	{
+		"keywords": ["PCJ-600"],
+		"from willowfield bikes": "$20,000",
+		"from players": "$15,000",
+		"seats": "2",
+		"speed": "170 MPH+"
+	},
+	{
+		"keywords": ["Tornado"],
+		"from coutt": "$8,500",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Blade"],
+		"from coutt": "$8,500",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "143 MPH"
+	},
+	{
+		"keywords": ["Voodoo"],
+		"from coutt": "$8,500",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "140 MPH"
+	},
+	{
+		"keywords": ["Remington"],
+		"from coutt": "$9,250",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "140 MPH"
+	},
+	{
+		"keywords": ["Broadway"],
+		"from coutt": "$10,000",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Savanna"],
+		"from coutt": "$10,000",
+		"from players": "$10,000",
+		"seats": "4",
+		"speed": "143 MPH"
+	},
+	{
+		"keywords": ["Virgo"],
+		"from saints": "$11,000",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Merit"],
+		"from saints": "$12,500",
+		"from players": "$10,000",
+		"seats": "4",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Greenwood"],
+		"from saints": "$12,500",
+		"from players": "10,000",
+		"seats": "4",
+		"speed": "116 MPH"
+	},
+	{
+		"keywords": ["Elegant"],
+		"from saints": "$14,500",
+		"from players": "$10,000",
+		"seats": "4",
+		"speed": "138 MPH"
+	},
+	{
+		"keywords": ["Washington"],
+		"from saints": "$15,000",
+		"from players": "$10,000",
+		"seats": "4",
+		"speed": "127 MPH"
+	},
+	{
+		"keywords": ["Rancher"],
+		"from saints": "$16,000",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "116 MPH"
+	},
+	{
+		"keywords": ["Premier"],
+		"from saints": "$16,500",
+		"from players": "$10,000",
+		"seats": "4",
+		"speed": "144 MPH"
+	},
+	{
+		"keywords": ["Admiral"],
+		"from saints": "$19,500",
+		"from players": "$15,000",
+		"seats": "4",
+		"speed": "136 MPH"
+	},
+	{
+		"keywords": ["Huntley"],
+		"from saints": "$21,000",
+		"from players": "$15,000",
+		"seats": "4",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Picador"],
+		"from blueberry": "$13,000",
+		"from players": "$7,000",
+		"seats": "2 (Surfable)",
+		"speed": "125 MPH"
+	},
+	{
+		"keywords": ["Walton"],
+		"from blueberry": "$10,000",
+		"from players": "$15,000",
+		"seats": "2 (Surfable)",
+		"speed": "97 MPH"
+	},
+	{
+		"keywords": ["Quad"],
+		"from blueberry": "$15,000",
+		"from players": "$10,000",
+		"seats": "2",
+		"speed": "91 MPH"
+	},
+	{
+		"keywords": ["Bobcat"],
+		"from blueberry": "$17,000",
+		"from players": "$10,000",
+		"seats": "2 (Surfable)",
+		"speed": "116 MPH"
+	},
+	{
+		"keywords": ["Yosemite"],
+		"from blueberry": "$17,000",
+		"from players": "$10,000",
+		"seats": "2 (Surfable)",
+		"speed": "119 MPH"
+	},
+	{
+		"keywords": ["Yankee"],
+		"from trucker": "$19,500",
+		"from players": "$19,000",
+		"seats": "2",
+		"speed": "88 MPH"
+	},
+	{
+		"keywords": ["Mule"],
+		"from trucker": "$21,500",
+		"from players": "$17,000",
+		"seats": "2",
+		"speed": "87 MPH"
+	},
+	{
+		"keywords": ["Benson"],
+		"from trucker": "$26,500",
+		"from players": "$22,000",
+		"seats": "2",
+		"speed": "102 MPH"
+	},
+	{
+		"keywords": ["Buffalo"],
+		"from importers": "$250,000",
+		"from sapphire": "$95,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "159 MPH"
+	},
+	{
+		"keywords": ["Cheetah"],
+		"from importers": "$250,000",
+		"from sapphire": "$95,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "155 MPH"
+	},
+	{
+		"keywords": ["Elegy"],
+		"from importers": "$250,000",
+		"from sapphire": "$95,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "147 MPH"
+	},
+	{
+		"keywords": ["Uranus"],
+		"from importers": "$250,000",
+		"from sapphire": "$95,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "129 MPH"
+	},
+	{
+		"keywords": ["Jester"],
+		"from importers": "$250,000",
+		"from sapphire": "$95,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "147 MPH"
+	},
+	{
+		"keywords": ["Banshee"],
+		"from importers": "$250,000",
+		"from diamond": "$125,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "167 MPH"
+	},
+	{
+		"keywords": ["Turismo"],
+		"from importers": "$250,000",
+		"from diamond": "$125,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "160 MPH"
+	},
+	{
+		"keywords": ["Bullet"],
+		"from importers": "$250,000",
+		"from diamond": "$125,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "168 MPH"
+	},
+	{
+		"keywords": ["Infernus"],
+		"from importers": "$250,000",
+		"from diamond": "$500,000",
+		"from players": "$60,000",
+		"seats": "2",
+		"speed": "184 MPH"
+	},
+	{
+		"keywords": ["BF Injection"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "112 MPH"
+	},
+	{
+		"keywords": ["Baggage"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "82 MPH"
+	},
+	{
+		"keywords": ["Bandito"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "121 MPH"
+	},
+	{
+		"keywords": ["Barracks"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "91 MPH"
+	},
+	{
+		"keywords": ["Bike 1"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "86 MPH"
+	},
+	{
+		"keywords": ["Bike 2"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "107 MPH"
+	},
+	{
+		"keywords": ["Bloodring-Banger"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "143 MPH"
+	},
+	{
+		"keywords": ["Boxville"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "89 MPH"
+	},
+	{
+		"keywords": ["Buccaneer"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "136 MPH"
+	},
+	{
+		"keywords": ["Burrito"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Bus"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "9",
+		"speed": "108 MPH"
+	},
+	{
+		"keywords": ["Cabbie"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "118 MPH"
+	},
+	{
+		"keywords": ["Caddy"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "79 MPH"
+	},
+	{
+		"keywords": ["Cadrona"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Camper"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "3",
+		"speed": "102 MPH"
+	},
+	{
+		"keywords": ["Cement Truck"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "108 MPH"
+	},
+	{
+		"keywords": ["Coach"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "9",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Combine Harvester"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "91 MPH"
+	},
+	{
+		"keywords": ["DFT-30"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "108 MPH"
+	},
+	{
+		"keywords": ["Dozer"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "53 MPH"
+	},
+	{
+		"keywords": ["Duneride"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "91 MPH"
+	},
+	{
+		"keywords": ["Emperor"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "127 MPH"
+	},
+	{
+		"keywords": ["Esperanto"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Feltzer"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "138 MPH"
+	},
+	{
+		"keywords": ["Flash"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "137 MPH"
+	},
+	{
+		"keywords": ["Flatbed"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Forklift"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "50 MPH"
+	},
+	{
+		"keywords": ["Fortune"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Hermes"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Hotdog"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "89 MPH"
+	},
+	{
+		"keywords": ["Hotknife"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "138 MPH"
+	},
+	{
+		"keywords": ["Hotring Racer"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "178 MPH"
+	},
+	{
+		"keywords": ["Hotring Racer A"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "178 MPH"
+	},
+	{
+		"keywords": ["Hotring Racer B"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "178 MPH"
+	},
+	{
+		"keywords": ["Hustler"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "122 MPH"
+	},
+	{
+		"keywords": ["Intruder"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Journey"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2 - Interior",
+		"speed": "89 MPH"
+	},
+	{
+		"keywords": ["Kart"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "77 MPH"
+	},
+	{
+		"keywords": ["Landstalker"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Linerunner"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "91 MPH"
+	},
+	{
+		"keywords": ["Majestic"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Manana"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "107 MPH"
+	},
+	{
+		"keywords": ["Mesa"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "116 MPH"
+	},
+	{
+		"keywords": ["Moonbeam"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "96 MPH"
+	},
+	{
+		"keywords": ["Mower"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "50 MPH"
+	},
+	{
+		"keywords": ["Mr Whoopee"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "82 MPH"
+	},
+	{
+		"keywords": ["Nebula"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Oceanic"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "116 MPH"
+	},
+	{
+		"keywords": ["Packer"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Patriot"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4 (Surfable)",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Phoenix"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "142 MPH"
+	},
+	{
+		"keywords": ["Pony"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "91 MPH"
+	},
+	{
+		"keywords": ["Previon"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "124 MPH"
+	},
+	{
+		"keywords": ["Primo"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "118 MPH"
+	},
+	{
+		"keywords": ["Regina"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "116 MPH"
+	},
+	{
+		"keywords": ["Roadtrain"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "118 MPH"
+	},
+	{
+		"keywords": ["Romero"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "115 MPH"
+	},
+	{
+		"keywords": ["Rumpo"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "113 MPH"
+	},
+	{
+		"keywords": ["Sanchez"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "144 MPH"
+	},
+	{
+		"keywords": ["Sandking"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "146 MPH"
+	},
+	{
+		"keywords": ["Securicar"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4 - Interior",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Sentinel"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "136 MPH"
+	},
+	{
+		"keywords": ["Slamvan"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Solair"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "130 MPH"
+	},
+	{
+		"keywords": ["Stafford"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "127 MPH"
+	},
+	{
+		"keywords": ["Stallion"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "140 MPH"
+	},
+	{
+		"keywords": ["Stratum"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "128 MPH"
+	},
+	{
+		"keywords": ["Stretch"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Sunrise"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "120 MPH"
+	},
+	{
+		"keywords": ["Sweeper"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "50 MPH"
+	},
+	{
+		"keywords": ["Tahoma"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "133 MPH"
+	},
+	{
+		"keywords": ["Tanker"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "100 MPH"
+	},
+	{
+		"keywords": ["Taxi"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "120 MPH"
+	},
+	{
+		"keywords": ["Topfun Van"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "113 MPH"
+	},
+	{
+		"keywords": ["Tractor"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "58 MPH"
+	},
+	{
+		"keywords": ["Trashmaster"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "83 MPH"
+	},
+	{
+		"keywords": ["Tug"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "71 MPH"
+	},
+	{
+		"keywords": ["Utility Van"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "100 MPH"
+	},
+	{
+		"keywords": ["Vortex"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "82 MPH"
+	},
+	{
+		"keywords": ["Windsor"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "131 MPH"
+	},
+	{
+		"keywords": ["Dodo"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "135 MPH+"
+	},
+	{
+		"keywords": ["Nevada"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "170 MPH+"
+	},
+	{
+		"keywords": ["Shamal"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 - Interior",
+		"speed": "225 MPH"
+	},
+	{
+		"keywords": ["Beagle"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "110 MPH+"
+	},
+	{
+		"keywords": ["Cropdust"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "105 MPH+"
+	},
+	{
+		"keywords": ["Stuntplane"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "125 MPH+"
+	},
+	{
+		"keywords": ["Cargobob"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2 - Interior",
+		"speed": "110 MPH+"
+	},
+	{
+		"keywords": ["Raindance"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "115 MPH+"
+	},
+	{
+		"keywords": ["Leviathan"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "2",
+		"speed": "85 MPH+"
+	},
+	{
+		"keywords": ["Sparrow"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1",
+		"speed": "60 MPH+"
+	},
+	{
+		"keywords": ["Maverick"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "4",
+		"speed": "90 MPH+"
+	},
+	{
+		"keywords": ["Squalo"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "85 MPH+"
+	},
+	{
+		"keywords": ["Speeder"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "85 MPH+"
+	},
+	{
+		"keywords": ["Reefer"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "40 MPH+"
+	},
+	{
+		"keywords": ["Tropic"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "90 MPH+"
+	},
+	{
+		"keywords": ["Launch"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "65 MPH+"
+	},
+	{
+		"keywords": ["Coastguard"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "100 MPH+"
+	},
+	{
+		"keywords": ["Dinghy"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "85 MPH+"
+	},
+	{
+		"keywords": ["Marquis"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "45 MPH+"
+	},
+	{
+		"keywords": ["Jetmax"],
+		"from importers": "$250,000",
+		"from players": "$180,000",
+		"seats": "1 (Surfable)",
+		"speed": "65 MPH+"
+	},
+	{
+		"keywords": ["Portable Radio"],
+		"from 24/7": "$500",
+		"usage": "/setfreq or /pr"
+	},
+	{
+		"keywords": ["Cellphone"],
+		"from 24/7": "$50",
+		"usage": "/call, /sms, /p, /h, /number, /rt, or /speakerphone"
+	},
+	{
+		"keywords": ["Phone Book"],
+		"from 24/7": "$25",
+		"usage": "/number"
+	},
+	{
+		"keywords": ["Sprunk"],
+		"from 24/7": "$1",
+		"usage": "/usesprunk"
+	},
+	 {
+		"keywords": ["Industrial Lock"],
+		"from 24/7": "$5,000",
+		"usage": "/pvl"
+	},
+	{
+		"keywords": ["Alarm Lock"],
+		"from 24/7": "$1,000"
+	},
+	{
+		"keywords": ["Spraycan"],
+		"from 24/7": "$20",
+		"usage": "/colorcar or /paintcar"
+	},
+	{
+		"keywords": ["Dice"],
+		"from 24/7": "$50",
+		"usage": "/dicebet as lvl 5+ or /dice"
+	},
+	{
+		"keywords": ["Condom"],
+		"from 24/7": "$5",
+		"usage": "/sex"
+	},
+	{
+		"keywords": ["CD Player"],
+		"from 24/7": "$5",
+		"usage": "/music"
+	},
+	{
+		"keywords": ["Cigar"],
+		"from 24/7": "$5",
+		"usage": "/usecigar"
+	},
+	{
+		"keywords": ["Camera"],
+		"from 24/7": "$20"
+	},
+	{
+		"keywords": ["Rope"],
+		"from 24/7": "$100",
+		"usage": "/tie, /drag, /detain, or /untie"
+	},
+	{
+		"keywords": ["Blindfold"],
+		"from 24/7": "$100",
+		"usage": "/blindfold, /bf, /removeblindfold, or /removebf"
+	},
+	{
+		"keywords": ["9mm", "Pistol"],
+		"legal": "Yes",
+		"damage": "7 HP",
+		"from players": "$250",
+		"from gun stores": "$500",
+		"from blackmarket (DD)": "$200",
+		"from blackmarket (SD)": "$200",
+		"as lvl 1 arms dealer": "200 materials"
+	},
+	{
+		"keywords": ["Silenced Pistol", "SDPistol"],
+		"legal": "No",
+		"damage": "12 - 13 HP",
+		"from players": "$200",
+		"from blackmarket (DD)": "$150",
+		"from blackmarket (SD)": "$150",
+		"as lvl 1 arms dealer": "150 materials"
+	},
+	{
+		"keywords": ["Desert Eagle", "Deagle"],
+		"legal": "No",
+		"damage": "46 HP",
+		"from players": "$2,500",
+		"from blackmarket (DD)": "$1,000",
+		"as lvl 3 arms dealer": "2,500 materials"
+	},
+	{
+		"keywords": ["Shotgun", "Shotty"],
+		"legal": "Yes",
+		"damage": "26 - 44 HP",
+		"from players": "$500",
+		"from gun stores": "$1,400",
+		"from blackmarket (DD)": "$400",
+		"from blackmarket (SD)": "$400",
+		"as lvl 1 arms dealer": "400 materials"
+	},
+	{
+		"keywords": ["Combat Shotgun", "SPAS-12"],
+		"legal": "No",
+		"damage": "35 HP",
+		"from players": "$8,500",
+		"from blackmarket (DD)": "$2,750",
+		"as lvl 5 arms dealer": "8,000 materials"
+	},
+	{
+		"keywords": ["TEC-9"],
+		"legal": "No",
+		"damage": "6 HP",
+		"from players": "$1,150",
+		"from blackmarket (DD)": "$700",
+		"from blackmarket (SD)": "$900"
+	},
+	{
+		"keywords": ["Micro SMG", "UZI"],
+		"legal": "No",
+		"damage": "6 HP",
+		"from players": "$1,150",
+		"from blackmarket (DD)": "$700",
+		"from blackmarket (SD)": "$900"
+	},
+	{
+		"keywords": ["MP5"],
+		"legal": "No",
+		"damage": "8 HP",
+		"from players": "$800",
+		"from blackmarket (DD)": "$550",
+		"from blackmarket (SD)": "$550",
+		"as lvl 2 arms dealer": "650 materials"
+	},
+	{
+		"keywords": ["Sniper Rifle"],
+		"legal": "No",
+		"damage": "41 - 55 HP",
+		"from players": "$10,000",
+		"from blackmarket (DD)": "$3,250",
+		"as lvl 5 arms dealer": "9,500 materials"
+	},
+	{
+		"keywords": ["County Rifle"],
+		"legal": "Yes",
+		"damage": "24 HP",
+		"from players": "$1,150",
+		"from gun stores": "$2,300",
+		"from blackmarket (DD)": "$850",
+		"from blackmarket (SD)": "$1,350",
+		"as lvl 2 arms dealer": "1,150 materials"
+	},
+	{
+		"keywords": ["AK-47"],
+		"legal": "No",
+		"damage": "9 HP",
+		"from players": "$5,500",
+		"from blackmarket (DD)": "$1,500",
+		"as lvl 4 arms dealer": "5,000 materials"
+	},
+	{
+		"keywords": ["M4"],
+		"legal": "No",
+		"damage": "9 HP",
+		"from players": "$6,500",
+		"from blackmarket (DD)": "$1,750",
+		"as lvl 4 arms dealer": "6,000 materials"
+	},
+	{
+		"keywords": ["Flowers"],
+		"legal": "Yes",
+		"as lvl 1 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Knuckles"],
+		"legal": "Yes",
+		"as lvl 1 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Baseball Bat"],
+		"legal": "Yes",
+		"as lvl 2 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Cane"],
+		"legal": "Yes",
+		"as lvl 2 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Shovel"],
+		"legal": "Yes",
+		"as lvl 3 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Golfclub"],
+		"legal": "Yes",
+		"as lvl 4 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Cue"],
+		"legal": "Yes",
+		"as lvl 4 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Dildo"],
+		"legal": "Yes",
+		"as lvl 5 arms dealer": "25 materials",
+		"from sex store": "$11"
+	},
+	{
+		"keywords": ["Katana"],
+		"legal": "Yes",
+		"as lvl 5 arms dealer": "25 materials"
+	},
+	{
+		"keywords": ["Screwdriver"],
+		"description": "Allows you to craft weapons.",
+		"as craftsman": "1,000 materials",
+		"usage":  "/makegun or /sellgun as arms dealer"
+	},
+	{
+		"keywords": ["Wristwatch", "WW"],
+		"description": "Allows you to have the time up on your screen instead of having to type (/time).",
+		"as craftsman": "500 materials",
+		"usage":  "/ww"
+	},
+	{
+		"keywords": ["Tire"],
+		"description": "Allow you /repair your vehicle tires and bodykit at the same time. Unlimited as DD.",
+		"as craftsman": "250 materials",
+		"usage":  "/repair as car mechanic"
+	},
+	{
+		"keywords": ["First aid kit", "Faid"],
+		"description": "Allows you to heal yourself overtime and also allows you to heal others whilst they are injured in the hurt state.",
+		"as craftsman": "500 materials",
+		"heal amount": "+5 HP per 5 seconds",
+		"usage":  "/faid to use it, /firstaidoff to disable it, and /ti for wounded players."
+	},
+	{
+		"keywords": ["Receiver"],
+		"description": "Shows the next 3 /d messages. (DO NOT USE, BUGGED)",
+		"as craftsman": "5,000 materials"
+	},
+	{
+		"keywords": ["Camera"],
+		"as craftsman": "250 materials",
+		"usage": "Hold RMB to aim and click LMB to snap a photo."
+	},
+	{
+		"keywords": ["GPS"],
+		"description": "Displays the location above your radar on the bottom left corner.",
+		"as craftsman": "1,000 materials",
+		"usage":  "/gps to toggle and /fbackup to call for assistance"
+	},
+	{
+		"keywords": ["Parachute"],
+		"as craftsman": "50 materials",
+		"usage": "Press LMB to deploy whilst in mid-air."
+	},
+	{
+		"keywords": ["Bugsweep"],
+		"description": "Clears you free of any bugs that FBI have planted on you. Unlimited as DD.",
+		"as craftsman": "10,000 materials",
+		"usage":  "/sweep"
+	},
+	{
+		"keywords": ["Lockpick", "Picklock"],
+		"description": "Allows you to /lockpick houses, cars, cuffs and businesses.",
+		"as craftsman": "100 materials",
+		"usage":  "/picklock"
+	},
+	{
+		"keywords": ["Fighting Moves", "Fighting Styles"],
+		"cost": "$5,000",
+		"moves": "Boxing, Elbow, Kneehead (best), Kung-Fu, Grabkick, and Normal"
+	},
+	{
+		"keywords": ["Non-donator", "ND"],
+		"concurrent vehicles spawned": "1",
+		"personal vehicles limit": "8",
+		"toys limit": "4",
+		"interest rate": "0.1",
+		"max interest": "$1,000",
+		"spawn armor limit": "50"
+	},
+	{
+		"keywords": ["Diamond Donator", "DD"],
+		"from importers": "$975,000",
+		"from donating": "$19.50 USD",
+		"concurrent vehicles spawned": "4",
+		"personal vehicles limit": "20",
+		"toys limit": "8",
+		"interest rate": "0.5",
+		"max interest": "$3,000",
+		"spawn armor limit": "100",
+		"paychecks for /takepills": "2",
+		"IC prison time reduction": "40 percent"
+	},
+	{
+		"keywords": ["Sapphire Donator", "SD"],
+		"from importers": "$500,000",
+		"from donating": "$10 USD",
+		"concurrent vehicles spawned": "3",
+		"personal vehicles limit": "15",
+		"toys limit": "7",
+		"interest rate": "0.3",
+		"max interest": "$2,000",
+		"spawn armor limit": "80",
+		"paychecks for /takepills": "4",
+		"IC prison time reduction": "20 percent"
+	},
+	{
+		"keywords": ["Ruby Donator", "RD"],
+		"from importers": "$250,000",
+		"from donating": "$5 USD",
+		"concurrent vehicles spawned": "2",
+		"personal vehicles limit": "10",
+		"toys limit": "6",
+		"interest rate": "0.2",
+		"max interest": "$1,500",
+		"spawn armor limit": "60",
+		"paychecks for /takepills": "6",
+		"IC prison time reduction": "10 percent"
+	},
+	{
+		"keywords": ["Dynamic Door"],
+		"from importers": "$975,000",
+		"from donating": "$19.50 USD"
+	},
+	{
+		"keywords": ["Crack"],
+		"from players": "$70 each",
+		"from crack lab": "$50 each",
+		"legal limit": "No Legal Limit",
+		"heal amount": "+10 AP",
+		"usage": "/usecrack with 2 grams of crack."
+	},
+	{
+		"keywords": ["Pot", "Marijuana", "Cannabis"],
+		"from players": "$30 each",
+		"from drug house": "$10 each",
+		"legal limit": "50 grams",
+		"heal amount": "+20 HP",
+		"usage": "/usepot with 2 grams of pot"
+	},
+	{
+		"keywords": ["Speed Limit"],
+		"small lanes": "20 MPH",
+		"built-up areas": "85 MPH",
+		"highway": "120 MPH",
+		"interstate": "150 MPH"
+	},
+	{
+		"keywords": ["City Hall", "Driver's License", "Boating License", "Pilot License"],
+		"driver's license": "$500",
+		"boating license": "$500",
+		"pilot license": "$2,500",
+		"usage": "/getlicense"
+	},
+	{
+		"keywords": ["Class A Business"],
+		"from players": "$1,000,000 to $2,000,000+",
+		"from importers": "$2,475,000",
+		"from donating": "$49.50 USD",
+		"examples": "24/7, gas station with 24/7, gun store, clothes store, or advertisement store"
+	},
+	{
+		"keywords": ["Class B Business"],
+		"from players": "$800,000 to $1,500,000+",
+		"from importers": "$1,750,000",
+		"from donating": "$35 USD",
+		"examples": "Nightclub, Burger Shot, Cluckin' Bell, Pizza Stack, sex store, restaurant, or gym"
+	},
+	{
+		"keywords": ["House"],
+		"from players": "$500,000 - $1,500,000+",
+		"from importers": "$1,400,000",
+		"from donating": "$28.50 USD"
+	},
+	{
+		"keywords": ["Namechange", "NC"],
+		"at": "Mall",
+		"from /changename": "$3,000 per level"
+	},
+	{
+		"keywords": ["Banks"],
+		"locations": "Bank of Los Santos, Rodeo Bank, Bank of San Fierro, and Bank of Palomino Creek",
+		"usage": "/bankhelp"
+	},
+	{
+		"keywords": ["In character", "IC"],
+		"definition": "The beliefs and actions of the player's character."
+	},
+	{
+		"keywords": ["Out of character", "OOC"],
+		"definition": "The beliefs and actions of the player."
+	},
+	{
+		"keywords": ["MP3 Player"],
+		"usage": "/mp3",
+		"from importers": "$225,000",
+		"from donating": "$4.50"
+	},
+	{
+		"keywords": ["Boombox"],
+		"usage": "/placebb as DD or boombox owner",
+		"from importers": "$225,000",
+		"from donating": "$4.50"
+	},
+	{
+		"keywords": ["Matrun"],
+		"with MP1 - MF1": "$75 package cost, 250 mats per run, ETA 120 seconds, and 7.5k mats per hour",
+		"with MP2 - MF2": "$75 package cost, 250 mats per run, ETA 62 seconds, and 14.5k mats per hour",
+		"with shamal": "$135 package cost, 450 mats per run, ETA 95 seconds, and 16.65k mats per hour",
+		"with boat": "$150 package cost, 500 mats per run, ETA 214 seconds, and 8k mats per hour"
+	},
+	{
+		"keywords": ["Material"],
+		"from players": "$1.2 to $1.5",
+		"from /getmats": "$0.3"
+	},
+	{
+		"keywords": ["Full weapon set"],
+		"from blackmarket (DD)": "$8750",
+		"from players": "$26,000",
+		"as arms dealer": "26,650 materials"
+	},
+	{
+		"keywords": ["Double-ended dildo"],
+		"from sex store": "$20"
+	},
+	{
+		"keywords": ["Vibrator"],
+		"from sex store": "$15"
+	},
+	{
+		"keywords": ["Box of condoms"],
+		"from sex store": "$5"
+	},
+	{
+		"keywords": ["Clothes", "Skin"],
+		"from clothes store": "$250"
+	},
+	{
+		"keywords": ["Phone number"],
+		"from importers": "$100,000",
+		"from donating": "$2.00 USD",
+		"as donator": "/changeph"
+	},
+	{
+		"keywords": ["License plate", "Plate number"],
+		"from importers": "$100,000",
+		"from donating": "$2.00 USD",
+		"as donator": "/changeplates"
+	},
+	{
+		"keywords": ["Forum usertitle", "Usertitle"],
+		"from importers": "$225,000",
+		"from donating": "$4.50 USD"
+	},
+	{
+		"keywords": ["House interior change"],
+		"from importers": "$250,000",
+		"from donating": "$5.00 USD"
+	},
+	{
+		"keywords": ["Two boomboxes", "2 boomboxes"],
+		"from importers": "$350,000",
+		"from donating": "$7.00 USD"
+	},
+	{
+		"keywords": ["Vehicle"],
+		"from importers": "$250,000",
+		"from donating": "$5.00 USD"
+	},
+	{
+		"keywords": ["Two vehicles", "2x vehicles"],
+		"from importers": "$450,000",
+		"from donating": "$9.00 USD"
+	},
+	{
+		"keywords": ["House move and interior change"],
+		"from importers": "$475,000",
+		"from donating": "$9.50 USD"
+	},
+	{
+		"keywords": ["Business or dynamic door move"],
+		"from importers": "$475,000",
+		"from donating": "$9.50 USD"
+	},
+	{
+		"keywords": ["Three vehicles", "3x vehicles"],
+		"from importers": "$625,000",
+		"from donating": "$12.50 USD"
+	},
+	{
+		"keywords": ["Tier I Package", "Tier 1 Package"],
+		"from importers": "$1,975,000",
+		"from donating": "$39.50 USD"
+	},
+	{
+		"keywords": ["Custom house interior"],
+		"from importers": "$1,975,000",
+		"from donating": "$39.50 USD"
+	},
+	{
+		"keywords": ["Custom headquarters"],
+		"from importers": "$1,975,000",
+		"from donating": "$39.50 USD"
+	},
+	{
+		"keywords": ["Tier II Package", "Tier 2 Package"],
+		"from importers": "$2,475,000",
+		"from donating": "$49.50 USD"
+	},
+	{
+		"keywords": ["Private island", "Island"],
+		"from importers": "$2,975,000",
+		"from donating": "$59.50 USD"
+	},
+	{
+		"keywords": ["Tier III Package", "Tier 3 Package"],
+		"from importers": "$3,475,000",
+		"from donating": "$69.50 USD"
+	},
+	{
+		"keywords": ["Drug Crate"],
+		"from /getcrate": "$100",
+		"at drug factory": "/getcrate",
+		"description": "Re-stocks 10 grams per delivery."
+	},
+	{
+		"keywords": ["3x seeds", "Seeds"],
+		"from /getseeds": "$300 to $400",
+		"at drug house": "/getseeds",
+		"description": "Each seed makes 45 to 48 grams of pot."
+	},
+	{
+		"keywords": ["Family safe"],
+		"cost": "$5,000",
+		"usage": "/safehelp"
+	},
+	{
+		"keywords": ["House locker"],
+		"cost": "$5,000",
+		"usage": "/househelp",
+		"description": "For house locker (max. 5). gunlocker2 for 2nd house."
+	},
+	{
+		"keywords": ["Reset upgrades"],
+		"cost": "$10,000",
+		"usage": "/resetupgrades",
+		"description": "Clears all the upgrades. Trunk weapons remain, but house weapons disappear."
+	},
+	{
+		"keywords": ["Vending machine", "Sprunk machine"],
+		"cost": "Free, but requires $1.",
+		"usage": "Press F or ENTER at vending machine.",
+		"heal amount": "+35 HP"
+	},
+	{
+		"keywords": ["Sprunk"],
+		"from 24/7": "$1",
+		"usage": "/usesprunk. Click LMB to take a sip. Press F or ENTER to discard.",
+		"heal amount": "+1 HP per sip"
+	},
+	{
+		"keywords": ["Medic heal", "heal"],
+		"from /heal": "$20 to $100",
+		"heal amount": "100 HP"
+	},
+	{
+		"keywords": ["Hospital bills"],
+		"with insurance": "$150",
+		"without insurance": "$200",
+		"under 8 playing hours": "Free",
+		"heal amount": "50 HP and 100 HP as SD+"
+	},
+	{
+		"keywords": ["Kevlar vest", "vest"],
+		"from /guard": "$200",
+		"from gun stores": "$800",
+		"heal amount": "50 AP"
+	},
+	{
+		"keywords": ["Full health and armor"],
+		"from blackmarket (DD)": "$350",
+		"from blackmarket (SD)": "$500",
+		"as arms dealer": "26,650 materials"
+	}
+]
